@@ -1,0 +1,7 @@
+.alertSucces{
+    visibility: visible;
+}
+
+.alertError{
+    visibility: hidden;
+}
